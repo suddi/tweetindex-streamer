@@ -1,1 +1,2 @@
+request==2.11.1
 tweetstreamer>=1.0.0

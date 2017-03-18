@@ -23,4 +23,4 @@ Set the CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY and ACCESS_SECRET values
 python main.py
 ````
 
-This will start the process to stream tweets
+This will start the process to stream tweets 
